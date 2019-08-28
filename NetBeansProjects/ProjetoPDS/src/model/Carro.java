@@ -20,7 +20,7 @@ public class Carro {
      * @return estado do porta malas
     */
     public static String estadoPortaMalas(String estado){
-        return "Porta malas " + estado;
+        return "Porta Malas " + estado;
     }
     //@return colacar cinto
     public static String colocarCinto(){
